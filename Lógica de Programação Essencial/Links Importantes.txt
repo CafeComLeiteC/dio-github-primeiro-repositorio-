@@ -1,0 +1,5 @@
+Download do Flowgorithm: https://flowgorithm.org
+
+Link do Download de Portugol:https://github.com/UNIVALI-LITE/Portugol-Studio/releases/
+
+Link do Portugol WebStudio: https://portugol-webstudio.cubos.io/ide
