@@ -8,6 +8,7 @@ body{
 .photo{
     border: 1px solid #505050;
     border-radius: 50%;
+    object-fit: cover;
 }
 
 #title, .subtitle, .post_title{
