@@ -1,5 +1,5 @@
-# Desafio de Projeto do Github do DIO
-Desafio de Projeto sobre o primeeiro repositório do  git/github
+# Repositório que colocarei arquivos de estudos em geral
+
 
 ## Link Úteis 
 [Sintexe Básica do MarkDown](https://www.markdownguide.org)
